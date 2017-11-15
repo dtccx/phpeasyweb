@@ -1,0 +1,15 @@
+vim /etc/apache2/httpd.conf
+
+STEP1: change 
+DocumentRoot “/Users/aa/www”
+<Directory “/Users/aa/www”>
+
+STEP2:
+restart apache;
+
+
+Refuse to connect
+Forbidden
+You don't have permission to access /hw3/ on this server.
+
+Specify /hw3/xxx.php
