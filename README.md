@@ -15,14 +15,14 @@ The default is: WebServer/Document
 **2. Open hw3.php first.**
 
 For example, open /localhost/hw3.php      
-//——————search function————————//    
+*——————search function————————    
 
 **3. Input the information you want to search.**    
 
 If you don’t input the customer name, you can search but you cannot make a book.
 Make sure you enter valid information, if not, you will search nothing or book nothing.
 
-//**——————book function—————————**//   
+***——————book function—————————**   
 
 Make sure you enter valid date and username, if not ,you will not book.
 Click book button if it shows” book successfully” it works.
