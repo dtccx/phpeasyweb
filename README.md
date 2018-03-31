@@ -16,9 +16,7 @@ The default is: WebServer/Document
 
 For example, open /localhost/hw3.php    
 
-<center>
-——————search function————————   
-</center>
+<center>   ——————search function————————   </center>
 
 **3. Input the information you want to search.**    
 
