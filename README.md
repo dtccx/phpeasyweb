@@ -14,8 +14,10 @@ The default is: WebServer/Document
 
 **2. Open hw3.php first.**
 
-For example, open /localhost/hw3.php      
-*——————search function————————*    
+For example, open /localhost/hw3.php    
+
+
+***——————search function————————***    
 
 **3. Input the information you want to search.**    
 
@@ -30,8 +32,9 @@ If it shows any other error, you need to check the information you input.
 You are allowed to book once a time, if you need to book other one, reopen”hw3.php”
 and search and make a book.
 
-**Notice:**
+## Notice:
 
 You must input customer name that already sign up. If you do not have username, you
 need to email me to create your username.
+
 Email: cc5766@nyu.edu
