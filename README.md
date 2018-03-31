@@ -26,7 +26,7 @@ Make sure you enter valid information, if not, you will search nothing or book n
 
 
 
-   ***———————————————————————book function——————————————————————————***   
+   ***———————————————————————book function—————————————————————————***   
    
 Make sure you enter valid date and username, if not ,you will not book.
 Click book button if it shows” book successfully” it works.
