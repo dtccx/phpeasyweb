@@ -16,9 +16,10 @@ The default is: WebServer/Document
 
 For example, open /localhost/hw3.php    
 
-```
+<center>
 ***——————search function————————***    
-```
+</center>
+
 **3. Input the information you want to search.**    
 
 If you don’t input the customer name, you can search but you cannot make a book.
